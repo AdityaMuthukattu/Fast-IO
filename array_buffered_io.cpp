@@ -1,3 +1,5 @@
+// this template works best if you are using arrays
+
 #include <stdio.h>
 #include <algorithm>
 #include <string.h>
@@ -18,7 +20,7 @@ char _inp[BLOCKSZ+1], *_pinp=_inp, _;
 
 int main()
 {
-
+    
     flush();
     return 0;
 }
