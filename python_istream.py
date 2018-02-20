@@ -1,4 +1,5 @@
 # A fast Python2 I/O Template
+# This will also work with Python3
 
 from sys import stdin, stdout
 #stdin = open("", 'r')   # CHANGE IF READING FROM FILES
